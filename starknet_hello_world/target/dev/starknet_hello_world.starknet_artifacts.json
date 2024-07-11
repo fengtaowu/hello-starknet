@@ -1,0 +1,1 @@
+{"version":1,"contracts":[{"id":"lo0ol7k118hvo","package_name":"starknet_hello_world","contract_name":"Balance","module_path":"starknet_hello_world::Balance","artifacts":{"sierra":"starknet_hello_world_Balance.contract_class.json","casm":"starknet_hello_world_Balance.compiled_contract_class.json"}}]}
